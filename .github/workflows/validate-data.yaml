@@ -4,10 +4,6 @@ permissions: {}
 
 on:
   push:
-    paths:
-      - "data/mods/**"
-      - "public/images/**"
-      - "data/tags.json"
 
 jobs:
   validate:
